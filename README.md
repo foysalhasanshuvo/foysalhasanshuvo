@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I`m Shuvo
+#### I am a font end web devloper
 
-<!--
-**foysalhasanshuvo/foysalhasanshuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:  JS / HTML / CSS/Wordpress
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/foysalhasanshuvo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohammad.shuvo.0)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+![GitHub metrics](https://metrics.lecoq.io/foysalhasanshuvo)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=foysalhasanshuvo)  
+
