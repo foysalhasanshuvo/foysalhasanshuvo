@@ -1,12 +1,37 @@
-![I am a font end web devloper](https://media.licdn.com/dms/image/D4D16AQELKD3CJ4kXvg/profile-displaybackgroundimage-shrink_350_1400/0/1671788861543?e=1711584000&v=beta&t=O9rj7L_Vas-9_MUG-v4R-MtzhNth0DGjNJH9Hu5HJy0)
 
-## Hi there 👋, I`m Shuvo
-#### I am a font end web devloper
+# 👋 Hi, I'm Foysal Hasan Shuvo
 
-Skills:  JS / HTML / CSS/Wordpress
+🚀 Front-End Web Developer | WordPress & Elementor Specialist  
 
-- 🔭 I’m currently working on this page. 
+I love building clean, responsive, and user-friendly websites.  
+Focused on real-world projects, performance, and practical solutions.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/foysalhasanshuvo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/foysal-hasan-shuvo-99a75b25b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/fhs.profile)    
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+---
 
+## 💻 What I Do
+- 🌐 Front-end web development
+- 🧩 WordPress & Elementor customization
+- 🛒 WooCommerce websites
+- ⚡ SEO-friendly & responsive design
+
+---
+
+## 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript  
+- **CMS:** WordPress
+- **Others:** Basic PHP, GitHub, Responsive UI, Website Optimization  
+
+---
+
+## 🔗 Portfolio & Social Links
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/foysalhasanshuvo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/foysal-hasan-shuvo-99a75b25b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/fhs.profile)
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=foysalhasanshuvo&show_icons=true&theme=default)
+
+---
+
+## 📌 Fun Fact
+> I prefer building projects rather than just talking about code 😄
